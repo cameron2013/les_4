@@ -8,4 +8,3 @@ try:
     print(f"Сотрудник {name} получит зарплату: {rate*time+reward} руб.")
 except ValueError:
     print("Параметры заданы не числом")
-
